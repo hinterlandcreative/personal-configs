@@ -1,4 +1,5 @@
-set number
+set number relativenumber
+set nu rnu
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
